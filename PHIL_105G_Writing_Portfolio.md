@@ -51,7 +51,7 @@ New Zealand is a democratic country and our flag should reflect this. The curren
 
 Therefore, the current New Zealand flag should be changed to represent the modern New Zealand.
 
-##Writing Portfolio 6
+## Writing Portfolio 6
 The purpose of a flag is to represent its country. Through the use of colours, symbols and imagery, a flag will paint a picture in the minds of both its citizens, tourists and foreign persons. Having an accurate depiction of what New Zealanders value is important to building nationalism.
 
 The current New Zealand flag is not unique and has few links to modern New Zealand. The Southern Cross is one of the only elements that reflect New Zealand, but even that is not unique to New Zealand, as it is used in many Southern Hemisphere countries including Brazil, Papua New Guinea, Samoa and Australia.
@@ -63,5 +63,17 @@ New Zealand is a democratic country and our flag should reflect this. The curren
 Therefore, the current New Zealand flag should be changed to represent the modern New Zealand.
 
 Reference List (APA style):
-Paddon, H. (2016, February 17). Retrieved May 2, 2016, from https://www.facebook.com/haydenpaddonwrc/posts/953521158017007:0
+Paddon, H. (2016, February 17). Retrieved May 2, 2016, from https://www.facebook.com/haydenpaddonwrc/posts/953521158017007:0  
 (Ministry for Culture and Heritage. (2015, November 20). Flags of New Zealand. Retrieved May 2, 2016, from http://www.nzhistory.net.nz/politics/flags-of-new-zealand/maritime-origins
+
+## Writing Portfolio 7
+
+In this paper, I will argue that the current New Zealand flag should be changed. The current flag does not uniquely represent modern New Zealand; both in its visual elements and how it was selected. Some of the visual elements on the flag reflect a realistically separate nation from New Zealand. The visual elements are used on many other flags and the similarity to Australia's flag consistently leads to confusion. And lastly, I will discuss how the current flag was not selected representatively by New Zealand.
+
+
+<not unique>
+The current New Zealand flag
+
+<does not represent>
+
+<was not selected representatively>
