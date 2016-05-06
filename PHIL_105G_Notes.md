@@ -17,6 +17,6 @@ The **false dilemma fallacy** is when an arguer presents only two options and re
 
 Tests can lead us to reject a hypothesis, but not to conclude that it's true.
 
-A scientific hypothesis requires that it could be testable and falsifiable.
+A scientific hypothesis is an explanation based on observable evidence requires that it can be testable and falsifiable.
 
-**Inference** is selecting the best hypothesis that explains the observations.
+**Inference to the best explanation** is a non-deductive argument which selects the best hypothesis that explains the observations.
