@@ -62,18 +62,22 @@ New Zealand is a democratic country and our flag should reflect this. The curren
 
 Therefore, the current New Zealand flag should be changed to represent the modern New Zealand.
 
-Reference List (APA style):
-Paddon, H. (2016, February 17). Retrieved May 2, 2016, from https://www.facebook.com/haydenpaddonwrc/posts/953521158017007:0  
+Reference List (APA style):  
+Paddon, H. (2016, February 17). Retrieved May 2, 2016, from https://www.facebook.com/haydenpaddonwrc/posts/953521158017007:0
+
 (Ministry for Culture and Heritage. (2015, November 20). Flags of New Zealand. Retrieved May 2, 2016, from http://www.nzhistory.net.nz/politics/flags-of-new-zealand/maritime-origins
 
 ## Writing Portfolio 7
 
 In this paper, I will argue that the current New Zealand flag should be changed. The current flag does not uniquely represent modern New Zealand; both in its visual elements and how it was selected. Some of the visual elements on the flag reflect a realistically separate nation from New Zealand. The visual elements are used on many other flags and the similarity to Australia's flag consistently leads to confusion. And lastly, I will discuss how the current flag was not selected representatively by New Zealand.
 
+The current New Zealand flag is not a unique flag. It shares the Southern Cross with other countries flags' such as Papua New Guinea, Samoa and Brazil. Along with the Southern Cross, the Australian flag also shares the same deep blue background and Union Jack in the canton (upper-left corner). This similarity with the Australian flag causes embarrassment and confusion, as noted by Hayden Patten on his Facebook (2016). A flag should be unique and clearly stand out from other countries' flags.
 
-<not unique>
-The current New Zealand flag
+Also, the flag does not accurately represent New Zealand. One of the main elements on the current flag is the Union Jack, the flag of the United Kingdom. Even though we are a completely autonomous nation with a very distinct culture, we still have their flag in our canton. Not only does this suggest that we are still a colony, but it also implies that we do not have our own culture.
 
-<does not represent>
+Finally, the current New Zealand flag should be changed because it was not chosen by New Zealand. It was selected and approved solely by the reigning monarch at the time, King Edward VII (Flags of New Zealand, 2015). The flag of a democratic country should be democratically chosen by its public. Changing the flag would give us the opportunity to select a flag by the New Zealand public.
 
-<was not selected representatively>
+Reference List (APA style):  
+Paddon, H. (2016, February 17). Retrieved May 2, 2016, from https://www.facebook.com/haydenpaddonwrc/posts/953521158017007:0
+
+(Ministry for Culture and Heritage. (2015, November 20). Flags of New Zealand. Retrieved May 2, 2016, from http://www.nzhistory.net.nz/politics/flags-of-new-zealand/maritime-origins
