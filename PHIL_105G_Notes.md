@@ -15,7 +15,7 @@ The **framing effect** is where changes in how a question is posed results in ch
 A **statement** is a sentence that is either true or false.
 
 An **argument** is a group of statements including premises and a conclusion.  
-**Premises** are statements that support the conclusion.  
+A **premises** is a statement used to justify the conclusion.  
 The **conclusion** is the outcome of the argument.  
 
 A **deductive** argument is one for which the premises are offered to provide logically conclusive support for its conclusion.  
@@ -40,17 +40,41 @@ A **bad** argument is one which is invalid, weak or has false premises.
 
 ![alt text](good-bad-diagram.png "Good and bad arguments")
 
+## Virtues
+
+The **principle of charity** is to always try to understand the strongest, most persuasive version of an argument.
+
+The **instrumental justification** proposes that critical thinking is valuable because using it means we get closer to the truth.
+
+The **intrinsic justification** proposes that critical thinking is valuable in its own right because it is what makes us better people.
+
 ## Fallacies
-The **ad hominem fallacy** is when an arguer attacks the person rather than evaluating the argument on its merits.  
+### Fallacies of relevance
+**Fallacies of relevance** offer reasons to believe a claim or conclusion that, on examination, turn out to not in fact to be reasons to do any such thing.
 
-The **red herring fallacy** is when an arguer side-tracks the audience with an irrelevant issue.
+* The **Tu Quoque fallacy** is the rejection of an argument because the person advancing it fails to practice what they preach.
 
-The **straw-man fallacy** is when an arguer distorts and attacks a weaker version of their opponent’s argument.
+* The **red herring fallacy** is when an arguer side-tracks the audience with an irrelevant issue.
 
-The **false dilemma fallacy** is when an arguer presents only two options and restricts the possibility of more options.
+* The **straw-man fallacy** is when an arguer distorts and attacks a weaker version of their opponent’s argument.
 
+* The **ad hominem fallacy** is when an arguer attacks the person rather than evaluating the argument on its merits.  
 
-## Scientific Method
+* An **appeal to authority** is the relying on the view of apparent authorities to settle the truth of a statement or argument.
+
+### Fallacies of unacceptable premises
+**Fallacies of unacceptable premises** attempt to introduce premises that, while they may be relevant, don’t support the conclusion of the argument.
+
+* The **false dilemma fallacy** is when an arguer presents only two options and restricts the possibility of more options.
+
+### Formal fallacies
+
+**Formal fallacies** are false because of their form or structure.
+
+* The **affirming the consequent fallacy** is the inferring the converse from the original statement. The converse of $P\rightarrow Q$ is $Q\rightarrow P$.
+* The **denying the antecedent fallacy** is the inferring the inverse from the original statement. The inverse of $P\rightarrow Q$ is $\lnot P\rightarrow \lnot Q$.
+
+## Scientific method
 1. Identify a problem or pose a question.
 2. Devise hypothesises to explain the event or phenomenon.
 3. Derive a test for the hypothesis.
@@ -59,6 +83,9 @@ The **false dilemma fallacy** is when an arguer presents only two options and re
 
 Tests can lead us to reject a hypothesis, but not to conclude that it's true.
 
-A scientific hypothesis is an explanation based on observable evidence requires that it can be testable and falsifiable.
+A **scientific hypothesis** is an explanation based on observable evidence requires that it can be testable and falsifiable.
 
 **Inference to the best explanation** is a non-deductive argument which selects the best hypothesis that explains the observations.
+
+## Numeracy
+The **base rate** fallacy
