@@ -107,15 +107,17 @@ In legal contexts, the state has heavy burden of proof because they are to ensur
 
 ## Morality
 
-A **descriptive statement** is ...
+A **descriptive statement** is a statement of fact.
 
-A **moral statement** is ...
+A **moral statement** is a claim that something is right or wrong.
 
-A **normative statement** is ...
-
+A **normative statement** expresses an evaluation relative to some standard or alternative.
+Moral statements are a subset of normative statements.
 
 A **moral argument** is an argument that includes at least one moral statement.
 Moral conclusions cannot be drawn directly from statements of fact.
 
+**Relativism** is the idea that ethics is personal to each individual or culture.
+
 ## Numeracy
-The **base rate** fallacy
+The **base rate fallacy** is the ignorance of the background likelihood of an event.
