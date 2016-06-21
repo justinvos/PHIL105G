@@ -62,6 +62,16 @@ The **intrinsic justification** proposes that critical thinking is valuable in i
 
 * An **appeal to authority** is the relying on the view of apparent authorities to settle the truth of a statement or argument.
 
+* The **fallacy of composition** is arguing that what is true of the parts must be true of the whole.
+
+* The **fallacy of division** is arguing that what is true of the whole must be true of the parts.
+
+* **Equivocation** is when a key word is used in two or more senses in the same argument and the apparent success of the argument depends on the shift in meaning.
+
+* An **appeal to popularity** is arguing that a claim must be true because lots of people believe it.
+
+* An **appeal to tradition** is the arguing that a claim must be true because of how long it has been believed.
+
 ### Fallacies of unacceptable premises
 **Fallacies of unacceptable premises** attempt to introduce premises that, while they may be relevant, don’t support the conclusion of the argument.
 
