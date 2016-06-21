@@ -97,7 +97,25 @@ A **random controlled trial** is an experiment that is used to compare the inter
 
 A **double-blind** study is one where both the participants and testers do not know who is in which group.
 
+## Law
 
+**Analogical reasoning** comes from the observation that two or more things are similar in some respects to the conclusion that they're probably similar in some other respect as well.  
+The strength of an analogy increases with the number of comparison cases, the number of relevant similarities and the absences of relevant dissimilarities.
+
+The **burden of proof** means to be rationally required to produce evidence for your assertion claims.  
+In legal contexts, the state has heavy burden of proof because they are to ensure that the basic human rights are not violated. While in usual contexts, the burden of proof is equally distributed.
+
+## Morality
+
+A **descriptive statement** is ...
+
+A **moral statement** is ...
+
+A **normative statement** is ...
+
+
+A **moral argument** is an argument that includes at least one moral statement.
+Moral conclusions cannot be drawn directly from statements of fact.
 
 ## Numeracy
 The **base rate** fallacy
