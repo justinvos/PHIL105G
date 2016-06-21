@@ -74,7 +74,11 @@ The **intrinsic justification** proposes that critical thinking is valuable in i
 * The **affirming the consequent fallacy** is the inferring the converse from the original statement. The converse of $P\rightarrow Q$ is $Q\rightarrow P$.
 * The **denying the antecedent fallacy** is the inferring the inverse from the original statement. The inverse of $P\rightarrow Q$ is $\lnot P\rightarrow \lnot Q$.
 
-## Scientific method
+## Science
+
+An **explanation** is a collection of statements asserting why or how something is the case.
+
+### Scientific method
 1. Identify a problem or pose a question.
 2. Devise hypothesises to explain the event or phenomenon.
 3. Derive a test for the hypothesis.
@@ -85,7 +89,15 @@ Tests can lead us to reject a hypothesis, but not to conclude that it's true.
 
 A **scientific hypothesis** is an explanation based on observable evidence requires that it can be testable and falsifiable.
 
-**Inference to the best explanation** is a non-deductive argument which selects the best hypothesis that explains the observations.
+The **falsification** of a hypothesis is the action of denying its plausibility.
+
+An **inference to the best explanation** is a strong non-deductive argument which selects the best hypothesis that explains the observations.
+
+A **random controlled trial** is an experiment that is used to compare the intervention to the one group than the control group.
+
+A **double-blind** study is one where both the participants and testers do not know who is in which group.
+
+
 
 ## Numeracy
 The **base rate** fallacy
